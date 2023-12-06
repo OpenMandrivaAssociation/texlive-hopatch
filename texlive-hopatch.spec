@@ -1,6 +1,6 @@
 Name:		texlive-hopatch
-Version:	56106
-Release:	2
+Version:	65491
+Release:	1
 Summary:	Load patches for packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/hopatch
